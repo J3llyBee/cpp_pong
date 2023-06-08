@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\cpp_pong\_build\main.cpp(120,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\_build\main.cpp(126,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\_build\main.cpp(143,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\_build\main.cpp(149,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\_build\main.cpp(192,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\cpp_pong\_build\main.cpp(192,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  cpp_pong.vcxproj -> D:\cpp_pong\_bin\Release\cpp_pong.exe
