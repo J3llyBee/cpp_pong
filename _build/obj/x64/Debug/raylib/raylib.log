@@ -1,0 +1,21 @@
+﻿  raudio.c
+D:\cpp_pong\raylib-master\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
+D:\cpp_pong\raylib-master\src\external\jar_xm.h(242,1): message : 'DEBUG' previously declared on the command line
+  rcore.c
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+D:\cpp_pong\raylib-master\src\rtextures.c(696,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(697,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(787,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2135,38): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2135,71): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2136,40): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2136,72): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2132,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cpp_pong\raylib-master\src\rtextures.c(2133,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> D:\cpp_pong\_bin\Debug\raylib.lib
